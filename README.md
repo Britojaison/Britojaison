@@ -1,7 +1,7 @@
 ## Hi,I'm Brito 🌠
 
 🧠Computer Science student at Christ University.
-💻I craete web applications using MERN stack.
+💻I create web applications using MERN stack.
 🤖I love integrating AI to my apps and creating AI agent automations.
 
 
