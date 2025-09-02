@@ -1,4 +1,4 @@
-## Hi,I'm Brito 🌠
+## Hi,I'm Brito 
 
 🧠Computer Science student at Christ University.
 💻I create web applications using MERN stack.
