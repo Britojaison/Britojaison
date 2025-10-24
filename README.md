@@ -1,6 +1,6 @@
 ## Hi,I'm Brito 
 
-🧠Computer Science student at Christ University.
+🧠Computer Science student at Christ University. /n
 💻I create web applications using MERN stack.
 🤖I love integrating AI to my apps and creating AI agent automations.
 
